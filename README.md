@@ -1,11 +1,11 @@
-# Strategic Thin-Wall Steel Coin Cell Program  
+# Strategic Irregular Thin-Wall Steel Coin Cell Program  
 _Pre-Award Line Construction → Statistical Process Governance → Dual-Line NPI Execution (2022–2023)_
 
 ---
 
 ## Program Overview
 
-Between 2022–2023, a custom thin-wall steel-cased coin cell program for wearable application was secured and executed under strict structural, safety, and statistical process control requirements.
+Between 2022–2023, a custom Irregular thin-wall steel-cased coin cell program for wearable application was secured and executed under strict structural, safety, and statistical process control requirements.
 
 The program included:
 
